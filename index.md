@@ -2,12 +2,25 @@
 
 In short, this license is intended to be mostly open source with a few protections for mod authors. If you just want to use this as a dependency for something, go ahead! If you want to fork it, please read:
 
-- You can use this mod in your modpack without asking, as long as it's downloaded from Curseforge or Modrinth.
-- You can compile against this mod and use it as a library, but you may not JIJ it or bundle it with your mod. It should be marked as a dependency on Curseforge or Modrinth.
-- If you want to fork this mod, you can do so, but you must split 50% of the revenue with the original author. You may not relicense the software.
-- You may not reupload this to other sites besides Curseforge or Modrinth.
-- You may copy small parts of this mod, such as individual functions and the build script, if used in another mod with different functionality. You may not copy a substantial amount of the mod, or copy code from this mod to use in competing mods that serve a similar purpose.
-- If you're confused about any of this, you should ask me directly.
+## Can I use this in my modpacks?
+
+Yes, of course! you can use this mod in your modpack without asking, as long as it's downloaded from the official Curseforge or Modrinth link.
+
+# Can I fork this mod?
+
+Yes, however, you must split 50% of the revenue with the original author. You may not relicense the software. You may not reupload it to other sites besides Curseforge or Modrinth.
+
+## Can I use this as a separate dependency for my own mods?
+
+You can compile against this mod and use it as a library, but you may not JIJ it or bundle it with your mod. It should be marked as a dependency on Curseforge or Modrinth.
+
+## Can I copy this bit of code I saw?
+
+Yes! Just be respectful. You may copy small parts of this mod, such as individual functions and the build script, if used in another mod with different functionality. You may not copy a substantial amount of the mod, or copy code from this mod to use in competing mods that serve a similar purpose.
+
+---
+
+If you're confused about any of this, you should ask me directly.
 
 ```
 Toni's MMC License
