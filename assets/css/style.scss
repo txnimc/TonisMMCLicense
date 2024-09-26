@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn {
+  display: none;
+}
+
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #ff60ab, #63e2ff);
+  height: 250px;
+}
