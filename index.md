@@ -1,4 +1,4 @@
-## Toni's Modded Minecraft License
+# Toni's Modded Minecraft License
 
 In short, this license is intended to be mostly open source with a few protections for mod authors. If you just want to use this as a dependency for something, go ahead! If you want to fork it, please read:
 
@@ -6,7 +6,7 @@ In short, this license is intended to be mostly open source with a few protectio
 
 Yes, of course! you can use this mod in your modpack without asking, as long as it's downloaded from the official Curseforge or Modrinth link.
 
-# Can I fork this mod?
+## Can I fork this mod?
 
 Yes, however, you must split 50% of the revenue with the original author. You may not relicense the software. You may not reupload it to other sites besides Curseforge or Modrinth.
 
