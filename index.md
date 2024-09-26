@@ -8,7 +8,7 @@ Yes, of course! you can use this mod in your modpack without asking, as long as 
 
 ## Can I fork this mod?
 
-Yes, however, you must split 50% of the revenue with the original author. You may not relicense the software. You may not reupload it to other sites besides Curseforge or Modrinth.
+Yes, and you don't need permission, but you must split 50% of the revenue with the original author. You may not relicense the software. You may not reupload it to other sites besides Curseforge or Modrinth.
 
 ## Can I use this as a separate dependency for my own mods?
 
